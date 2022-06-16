@@ -1,0 +1,2 @@
+# cmaketemp
+cmake workspace template
